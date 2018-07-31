@@ -1,6 +1,5 @@
-##### Design Team's Repository
+### Design Team's Repository
 
-###### Content
+#### Content
 
-
-###### Issues
+#### Issues
