@@ -1,4 +1,4 @@
-### Design Team's Repository
+### Open Opportunity Team's Repository
 
 #### Content
 
